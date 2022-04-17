@@ -4,6 +4,10 @@
 El siguiente trabajo fue realizado como practica para el curso de Front end. Con Html y Css y Javascript. 
 `
 `
+
+
+
+
 Consiste en emulador de un cajero en el que se puede agregar diversas funcionalidades.Se divide en 3 partes. 
 Son dos contenedores en la parte superior y uno en la parte inferior. 
 `
