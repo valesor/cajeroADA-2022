@@ -8,12 +8,12 @@ Consiste en emulador de un cajero en el que se puede agregar diversas funcionali
 Son dos contenedores en la parte superior y uno en la parte inferior. 
 `
 
-###### Parte superior: Se divide en ventas por sucurssl y reportes 
+#### Parte superior: Se divide en ventas por sucurssl y reportes 
 
 ![GitHub Logo](img/superior.png)
 
 
-###### Parte Inferior: Contiene la tabla que tiene las ventas
+#### Parte Inferior: Contiene la tabla que tiene las ventas
 
 ![GitHub Logo](img/tablaventas.png)
 
