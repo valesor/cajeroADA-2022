@@ -224,7 +224,7 @@ form {
 
 /*///////////////////////////// RESPONSIVE////////////////////////*/
 
-@media (max-width: 600px) {
+/*@media (max-width: 600px) {
   body {
     display: flex;
     justify-content: unset;
@@ -336,3 +336,4 @@ form {
     width: 55%;
   }
 }
+*/
