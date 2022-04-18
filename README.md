@@ -4,9 +4,6 @@ El siguiente trabajo fue realizado como practica para el curso de Front end en A
 
 Consiste en emulador de un cajero en el que se puede agregar diversas funcionalidades.Se divide en 3 partes. 
 
-Son dos contenedores en la parte superior y uno en la parte inferior. 
-
-Fue realizdo con Html y Css y Javascript. 
 
 ## Realizado con:
 
@@ -26,6 +23,7 @@ Fue realizdo con Html y Css y Javascript.
 * OBjetos de array
 * Modificacion de fechas
 
+### Son dos contenedores en la parte superior y uno en la parte inferior. 
 
 ###  Parte superior: Se divide en ventas por sucursal y reportes 
 
@@ -43,6 +41,8 @@ Fue realizdo con Html y Css y Javascript.
 3. Eliminar venta 
 4. Actualizar ventas por sucursal  
 5. Actualizar reportes
+
+## 1-Agregar venta  
 
 ## 1-Agregar venta  
 Agrega una venta nueva permitiendo agregar todos los datos de la modal.
