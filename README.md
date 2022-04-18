@@ -20,7 +20,8 @@ Son dos contenedores en la parte superior y uno en la parte inferior.
 1. Agregar nueva venta 
 2. Editar venta 
 3. Eliminar venta 
-4. Actualizar  
+4. Actualizar ventas por sucursal  
+5. Actualizar reportes
 
 ## 1-Agregar venta  
 
