@@ -42,7 +42,6 @@ Consiste en emulador de un cajero en el que se puede agregar diversas funcionali
 4. Actualizar ventas por sucursal  
 5. Actualizar reportes
 
-## 1-Agregar venta  
 
 ## 1-Agregar venta  
 Agrega una venta nueva permitiendo agregar todos los datos de la modal.
