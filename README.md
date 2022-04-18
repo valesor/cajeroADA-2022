@@ -1,10 +1,31 @@
 # PROYECTO CAJERO ADA
 
-El siguiente trabajo fue realizado como practica para el curso de Front end en ADA ITW. Fue realizdo con Html y Css y Javascript. 
-
+El siguiente trabajo fue realizado como practica para el curso de Front end en ADA ITW. 
 
 Consiste en emulador de un cajero en el que se puede agregar diversas funcionalidades.Se divide en 3 partes. 
+
 Son dos contenedores en la parte superior y uno en la parte inferior. 
+
+Fue realizdo con Html y Css y Javascript. 
+
+## Realizado con:
+
+1. HTML 
+* tablas
+* contenedores
+
+2. CSS
+* Tipografia
+* Responsive
+
+3. JAVASCRIPT
+* Variables
+* Manejo de DOM
+* Funciones
+* Arrays
+* OBjetos de array
+* Modificacion de fechas
+
 
 ###  Parte superior: Se divide en ventas por sucursal y reportes 
 
