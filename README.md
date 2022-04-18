@@ -34,3 +34,12 @@ Son dos contenedores en la parte superior y uno en la parte inferior.
 ## 3-Eliminar venta
 
 ![GitHub Logo](img/modaleliminarventa.png)
+
+## 4-Actualizar ventas por sucursal 
+
+![GitHub Logo](img/actualizarventasporsucursal.png)
+
+## 5-Actualizar reportes
+
+![GitHub Logo](img/actualizareportes.png)
+
