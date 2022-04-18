@@ -1,6 +1,6 @@
 # PROYECTO CAJERO ADA
 
-El siguiente trabajo fue realizado como practica para el curso de Front end. Con Html y Css y Javascript. 
+El siguiente trabajo fue realizado como practica para el curso de Front end en ADA ITW. Fue realizdo con Html y Css y Javascript. 
 
 
 Consiste en emulador de un cajero en el que se puede agregar diversas funcionalidades.Se divide en 3 partes. 
@@ -24,14 +24,17 @@ Son dos contenedores en la parte superior y uno en la parte inferior.
 5. Actualizar reportes
 
 ## 1-Agregar venta  
+Agrega una venta nueva permitiendo agregar todos los datos de la modal.
 
 ![GitHub Logo](img/modalagregarventa.png)
 
 ## 2-Editar venta
+ Permite editar las ventas de la tabla modificando los datos de la modal.
 
 ![GitHub Logo](img/modaleditarventa.png)
 
 ## 3-Eliminar venta
+Permite eliminar la venta seleccionada.
 
 ![GitHub Logo](img/modaleliminarventa.png)
 
