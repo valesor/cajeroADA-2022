@@ -22,3 +22,14 @@ Son dos contenedores en la parte superior y uno en la parte inferior.
 3. Eliminar venta 
 4. Actualizar  
 
+## 1-Agregar venta  
+
+![GitHub Logo](img/modalagregarventa.png)
+
+## 2-Editar venta
+
+![GitHub Logo](img/modaleditarventa.png)
+
+## 3-Eliminar venta
+
+![GitHub Logo](img/modaleliminarventa.png)
